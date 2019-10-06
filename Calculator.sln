@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator.vcxproj", "{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Debug|x64.ActiveCfg = Debug|x64
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Debug|x64.Build.0 = Debug|x64
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Debug|x86.Build.0 = Debug|Win32
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Release|x64.ActiveCfg = Release|x64
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Release|x64.Build.0 = Release|x64
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Release|x86.ActiveCfg = Release|Win32
+		{46C4DFCF-58AF-409D-A5E9-2C90C0F1E0CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B69B0A-CF75-48E1-8DB9-91B3D9A5FDE7}
+	EndGlobalSection
+EndGlobal
